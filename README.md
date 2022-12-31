@@ -11,7 +11,7 @@ for use, always read the requirements and how to use the source code
 
  - [Convert Image to PDF](https://github.com/ferdyhape/Python-Simple-Tools/blob/master/ImageToPDF.py)
  - [Merge PDF Files](https://github.com/ferdyhape/Python-Simple-Tools/blob/master/MergePDF.py)
-and You can request Script [here](https://github.com/ferdyhape/Python-Simple-Tools/issues)
+ - and You can request Script [here](https://github.com/ferdyhape/Python-Simple-Tools/issues)
 
 ## :link: About Creator
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ferdyhape.site/)

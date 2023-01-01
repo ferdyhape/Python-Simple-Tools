@@ -5,10 +5,10 @@ from PyPDF2 import PdfMerger
 # -- installing python
 # you can install python by downloading the file and viewing the tutorial from here https://www.python.org/downloads/
 
-# -- installing pillow
+# -- installing PyPDF2
 # pip install PyPDF2
 
-print("-----------------------------------------\nPYTHON SCRIPT MERGE PDF - BY FERDYHAPE\n-----------------------------------------\n\n")
+print("-----------------------------------------\nPYTHON SCRIPT MERGE PDF - BY FERDYHAPE\n-----------------------------------------\n")
 
 
 print("HOW to use this tool?\n-----------------------------------------\n1. prepare an pdf file in a local directory (make sure the image file name is without spaces ex: file_image.jpg, fileimage.jpg)\n2. prepare a local path folder for pdf storage (if you dont want to always include the local path folder, change the default save in line 20 of the code)\n3. Run the script code\n4. if asked to input the image path, directly drag and drop the image file to the terminal the code works\n5. enter the local path folder for storing pdf files (if you have changed the default, you just have to enter without inputting) \n6. enter file name (without .pdf)")

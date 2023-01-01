@@ -11,6 +11,7 @@ for use, always read the requirements and how to use the source code
 
  - [Convert Image to PDF](https://github.com/ferdyhape/Python-Simple-Tools/blob/master/ImageToPDF.py)
  - [Merge PDF Files](https://github.com/ferdyhape/Python-Simple-Tools/blob/master/MergePDF.py)
+ - [Wa Auto Send](https://github.com/ferdyhape/Python-Simple-Tools/blob/master/WaAutoSend.py)
  - and You can request Script [here](https://github.com/ferdyhape/Python-Simple-Tools/issues)
 
 ## :link: About Creator

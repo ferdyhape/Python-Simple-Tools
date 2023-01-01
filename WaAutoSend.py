@@ -10,12 +10,8 @@ import keyboard as k
 # -- installing pywhatkit
 # pip install pywhatkit
 
-print("-----------------------------------------\nPYTHON SCRIPT WA SEND SCHEDULER - BY FERDYHAPE\n-----------------------------------------\n")
-
-
+print("-----------------------------------------\nPYTHON SCRIPT WA AUTO SEND - BY FERDYHAPE\n-----------------------------------------\n")
 print("HOW to use this tool?\n-----------------------------------------\n1. Run script code\n2. input destination number (use country code, example: +62xxxx)2. Input the time in hours and minutes (at least 2 minutes difference from the current time)\n3. Input waiting time your computer open the browser(within second, default 30s, if you have fast connection, you can change to 10s, ex: 10, 20)\n4. Enter Close tab time, your browser will auto close whatsapp tab after sending message (input within seconds, default 15, ex: 10, 20)\n5. Input message\n6. Wait for the message to be sent")
-
-
 
 while True:
     print('\n-----------------------------------------')
